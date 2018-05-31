@@ -4,8 +4,8 @@ To use Jasmine to test if the JavaScript of a given project is working
 
 ## How to run project
 
-Download from
-use a web browser to open the index.html file
+-Download from https://github.com/Nate03281982/Feed-Reader-Testing-Project.git
+-use a web browser to open the index.html file
 
 ## Jasmine tests
 
